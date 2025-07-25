@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Hongnan Chen1"
+  name             : "Hongnan Chen"
   pronouns         : # example: "she/her"  
   bio              : "Postgraduate students"
   location         : "China Soochow"
-  employer         : "Red Brick University"
+  # employer         : "Red Brick University"
   uri              : # URL
   email            : "shizicheng905@gmail.com" 
 
