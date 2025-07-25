@@ -6,5 +6,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third year undergraduate student from [School of SCST](https://scst.suda.edu.cn/), [Soochow University](https://www.suda.edu.cn/). My research interest includes computer vision and machine learning.
+I'm a third year postgraduate students from [School of SCST](https://scst.suda.edu.cn/), [Soochow University](https://www.suda.edu.cn/). My research interest includes computer vision and machine learning.
 
